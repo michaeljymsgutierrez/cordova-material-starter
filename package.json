@@ -1,0 +1,27 @@
+{
+  "name": "cordova-material-starter",
+  "version": "1.0.0",
+  "description": "A cordova and angular material starter setup",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "angular-animate": "^1.6.10",
+    "angular-aria": "^1.6.10",
+    "angular-material": "^1.1.8",
+    "angular-messages": "^1.6.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljymsgutierrez/cordova-material-starter.git"
+  },
+  "author": "Chael Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljymsgutierrez/cordova-material-starter/issues"
+  },
+  "homepage": "https://github.com/michaeljymsgutierrez/cordova-material-starter#readme"
+}
